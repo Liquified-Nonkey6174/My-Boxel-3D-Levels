@@ -9,6 +9,11 @@
       "title": "Get Snailed",
       "author": "Chester",
       "path": "Levels/Get Snailed.json"
+    },
+    {
+      "title": "Pepsin",
+      "author": "Nate",
+      "path": "Levels/Pepsin.json"
     }
   ]
 }
