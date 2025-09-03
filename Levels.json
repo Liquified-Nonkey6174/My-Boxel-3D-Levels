@@ -24,6 +24,16 @@
       "title": "Double Jump Master!!!",
       "author": "Chester",
       "path": "Levels/Double Jump Master.json"
+    },
+    {
+      "title": "Compact Hell",
+      "author": "Chester",
+      "path": "Levels/Compact Hell.json"
+    },
+    {
+      "title": "Bomba Lester",
+      "author": "Nate",
+      "path": "Levels/Bomba Lester.json"
     }
   ]
 }
