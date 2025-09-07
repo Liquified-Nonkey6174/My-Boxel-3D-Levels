@@ -39,6 +39,11 @@
       "title": "Bomba Lester Alpha",
       "author": "Nate",
       "path": "Levels/Bomba Lester Alpha.json"
+    },
+    {
+      "title": "Puzzle",
+      "author": "Chester",
+      "path": "Levels/Puzzle.json"
     }
   ]
 }
