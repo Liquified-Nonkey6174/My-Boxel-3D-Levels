@@ -49,6 +49,11 @@
       "title": "Reality Death",
       "author": "Chester",
       "path": "Levels/Reality Death.json"
+    },
+    {
+      "title": "Shake",
+      "author": "Chester",
+      "path": "Levels/Shake.json"
     }
   ]
 }
